@@ -1,7 +1,3 @@
-Here's a detailed and professional README file for your e-commerce website project:
-
----
-
 # BuildBox | E-Commerce Website
 
 ## Overview  
@@ -43,7 +39,7 @@ BuildBox is a responsive and dynamic e-commerce landing page designed for an onl
 
 ## Demo  
 Provide a link to the live demo if hosted (e.g., Vercel, GitHub Pages, etc.):  
-[Live Demo](#)
+[Live Demo](https://buildbox-project.vercel.app/)
 
 ---
 
