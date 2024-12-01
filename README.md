@@ -27,11 +27,11 @@ BuildBox is a responsive and dynamic e-commerce landing page designed for an onl
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/thearmanqureshi/BuildBox-E-Commerce-Website.git
    ```
 2. Navigate to the project directory:  
    ```bash
-   cd repository-name
+   cd BuildBox-E-Commerce-Website
    ```
 3. Open `index.html` in your preferred browser to view the website.
 
