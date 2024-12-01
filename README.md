@@ -37,9 +37,8 @@ BuildBox is a responsive and dynamic e-commerce landing page designed for an onl
 
 ---
 
-## Demo  
-Provide a link to the live demo if hosted (e.g., Vercel, GitHub Pages, etc.):  
-[Live Demo](https://buildbox-project.vercel.app/)
+## Live Demo  
+https://buildbox-project.vercel.app
 
 ---
 
