@@ -27,7 +27,7 @@ BuildBox is a responsive and dynamic e-commerce landing page designed for an onl
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/thearmanqureshi/BuildBox-E-Commerce-Website.git
+   git clone https://github.com/Piyush-Negi/BuildBox.git
    ```
 2. Navigate to the project directory:  
    ```bash
@@ -38,7 +38,7 @@ BuildBox is a responsive and dynamic e-commerce landing page designed for an onl
 ---
 
 ## Live Demo  
-https://buildbox-project.vercel.app
+https://piyush-negi.github.io/BuildBox/
 
 ---
 
@@ -66,6 +66,6 @@ https://buildbox-project.vercel.app
 
 ## Contact  
 For questions or collaboration:  
-- **Email**: [thearmanqureshi@gmail.com](mailto:thearmanqureshi@gmail.com)  
-- **GitHub**: [thearmanqureshi](https://github.com/thearmanqureshi)  
-- **LinkedIn**: [Arman Qureshi](https://www.linkedin.com/in/thearmanqureshi/)  
+- **Email**: [piyushhnegi@gmail.com](mailto:piyushhnegi@gmail.com)  
+- **GitHub**: [Piyush-Negi](https://github.com/Piyush-Negi)  
+- **LinkedIn**: [Piyush Negi](https://www.linkedin.com/in/piyushh-negi/)  
