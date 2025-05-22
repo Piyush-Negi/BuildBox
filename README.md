@@ -47,7 +47,7 @@ https://piyush-negi.github.io/BuildBox/
 ![BB_2](https://github.com/thearmanqureshi/BuildBox-E-Commerce-Website/blob/main/Images/BB-2.png?raw=true)
 ![BB_3](https://github.com/thearmanqureshi/BuildBox-E-Commerce-Website/blob/main/Images/BB-3.png?raw=true)
 ![BB_4](https://github.com/thearmanqureshi/BuildBox-E-Commerce-Website/blob/main/Images/BB-4.png?raw=true)
-![BB_5](https://github.com/thearmanqureshi/BuildBox-E-Commerce-Website/blob/main/Images/BB-5.png?raw=true)
+![BB_5](https://github.com/thearmanqureshi/BuildBox-E-Commerce-Website/blob/main/Images/?raw=true)
 ![BB Responsive](https://github.com/thearmanqureshi/BuildBox-E-Commerce-Website/blob/main/Images/BB-Resp.png?raw=true)
 
 ---
